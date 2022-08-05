@@ -1,1 +1,12 @@
 /* styles go here */
+.input {
+  display: block;
+}
+
+.input:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.set {
+  margin-bottom: 20px;
+}
